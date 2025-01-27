@@ -1,2 +1,2 @@
 # Faktura_react
- Program do księgowości w ract + DRF
+ Program do księgowości w react + DRF
